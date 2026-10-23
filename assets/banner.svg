@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Tanawat Wongwad — Just a chill dev.</title>
+  <desc id="desc">A dark navy developer banner with cream typography, orange accents, and a hand-drawn game controller. Games, web, and automation.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#DDE6F5" stroke-opacity=".045"/>
+    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#141C2B"/>
+      <stop offset="1" stop-color="#0D131F"/>
+    </linearGradient>
+    <linearGradient id="pad" x1="840" y1="135" x2="1080" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#253247"/>
+      <stop offset="1" stop-color="#171F30"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="390" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="388" rx="19" stroke="#334056"/>
+  <rect x="1" y="1" width="1198" height="388" rx="19" fill="url(#grid)"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">
+    <circle cx="61" cy="49" r="5" fill="#FFAF69"/>
+    <text x="80" y="54" fill="#DDDCD7">TANAWAT WONGWAD</text>
+    <text x="1139" y="54" fill="#8D9CB3" text-anchor="end">@KHAITOMGUT2006</text>
+  </g>
+
+  <g fill="#F5F0E6" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="800" letter-spacing="-3">
+    <text x="54" y="158">JUST A</text>
+    <text x="54" y="242">CHILL DEV<tspan fill="#FFAF69">.</tspan></text>
+  </g>
+  <text x="58" y="280" fill="#A9B5C8" font-family="Arial, Helvetica, sans-serif" font-size="20">Building things to play with. And things to use.</text>
+
+  <path d="M710 92V298" stroke="#334056"/>
+  <g transform="translate(920 194)">
+    <ellipse rx="160" ry="111" stroke="#334056" stroke-dasharray="4 8" transform="rotate(-23)"/>
+    <ellipse rx="121" ry="121" stroke="#253247"/>
+    <path d="M-146-65h18m-9-9v18M138 63h18m-9-9v18" stroke="#FFAF69" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="125" cy="-85" r="6" fill="#9CAFF0"/>
+    <circle cx="-131" cy="91" r="4" fill="#FFAF69"/>
+    <path d="M-83-45C-106-42-116-16-123 13l-9 43c-5 24 20 38 38 20l32-31H62l32 31c18 18 43 4 38-20l-9-43c-7-29-17-55-40-58-17-2-33 9-48 9h-70c-15 0-31-11-48-9Z" fill="#0A101B" transform="translate(0 8)"/>
+    <path d="M-83-45C-106-42-116-16-123 13l-9 43c-5 24 20 38 38 20l32-31H62l32 31c18 18 43 4 38-20l-9-43c-7-29-17-55-40-58-17-2-33 9-48 9h-70c-15 0-31-11-48-9Z" fill="url(#pad)" stroke="#7D8DA8" stroke-width="2.5"/>
+    <path d="M-80-16h15v14h14v15h-14v14h-15V13h-14V-2h14Z" fill="#F5F0E6"/>
+    <circle cx="79" cy="-7" r="8" fill="#FFAF69"/>
+    <circle cx="96" cy="10" r="8" fill="#9CAFF0"/>
+    <circle cx="62" cy="10" r="8" fill="#9CAFF0"/>
+    <circle cx="79" cy="27" r="8" fill="#FFAF69"/>
+    <rect x="-19" y="-5" width="13" height="5" rx="2.5" fill="#7D8DA8"/>
+    <rect x="8" y="-5" width="13" height="5" rx="2.5" fill="#7D8DA8"/>
+    <circle cx="-32" cy="30" r="13" fill="#101724" stroke="#53647D" stroke-width="2"/>
+    <circle cx="32" cy="30" r="13" fill="#101724" stroke="#53647D" stroke-width="2"/>
+    <path d="M-68-44c9-7 22-5 32-3" stroke="#FFAF69" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <path d="M56 318H1144" stroke="#334056"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5">
+    <text x="58" y="352" fill="#FFAF69">01</text>
+    <text x="86" y="352" fill="#D2D9E4">GAMES</text>
+    <text x="206" y="352" fill="#FFAF69">02</text>
+    <text x="234" y="352" fill="#D2D9E4">WEB</text>
+    <text x="327" y="352" fill="#FFAF69">03</text>
+    <text x="355" y="352" fill="#D2D9E4">AUTOMATION</text>
+    <text x="1141" y="352" fill="#8D9CB3" text-anchor="end">CREATE. PLAY. REPEAT.</text>
+  </g>
+</svg>
